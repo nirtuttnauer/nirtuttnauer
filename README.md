@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirtuttnauer
 - 👀 I’m interested in Programming, Design, Photography.
-- 🌱 I’m currently learning Frontend, JAVA, Algo 1.
+- 🌱 I’m currently learning AWS and C++ OpenGL Graphics
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me : Whatsapp - +972 502052803
 
